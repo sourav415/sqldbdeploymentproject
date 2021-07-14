@@ -1,0 +1,10 @@
+7/14/2021 7:45:33 AM	This log contains information about the import schema operation into project 'Adventuredb' on computer 'DESKTOP-RER9FKR' by user 'SOURAV'.
+7/14/2021 7:45:33 AM	Deserializing model
+7/14/2021 7:45:35 AM	Resolving model
+7/14/2021 7:45:36 AM	Visiting imported model for types
+7/14/2021 7:45:38 AM	Scanning project for duplicate elements
+7/14/2021 7:45:38 AM	Finished duplicate element processing
+7/14/2021 7:46:22 AM	Processing extra files
+7/14/2021 7:46:22 AM	Finished importing Data-tier Application file.
+7/14/2021 7:46:22 AM	A summary of the import was saved to the following location: C:\Users\SOURAV\source\repos\Adventuredb\Import Schema Logs\Adventuredb_20210714024533.log
+7/14/2021 7:46:22 AM	Click Finish to continue...
